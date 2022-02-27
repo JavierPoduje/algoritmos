@@ -1,0 +1,15 @@
+{
+  "name": "algoritmos",
+  "version": "1.0.0",
+  "description": "Algoritmos y ejercicios de programación",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Javier Poduje",
+  "license": "ISC",
+  "dependencies": {
+    "babel-jest": "^27.5.1",
+    "jest": "^27.5.1"
+  }
+}
