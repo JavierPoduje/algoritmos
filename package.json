@@ -4,11 +4,14 @@
   "description": "Algoritmos y ejercicios de programación",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "jest"
   },
   "author": "Javier Poduje",
   "license": "ISC",
   "dependencies": {
+    "@babel/core": "^7.17.5",
+    "@babel/preset-env": "^7.16.11",
+    "@types/jest": "^27.4.1",
     "babel-jest": "^27.5.1",
     "jest": "^27.5.1"
   }
